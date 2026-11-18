@@ -15,9 +15,9 @@ wrote it. Nobody wins with someone else's code passed off as their own.
 This guide walks you from zero to your first submitted entry. No hype, no promises of easy money — just the actual
 steps, what each one costs, and what it honestly takes.
 
-> **Starting here? Sign up through my link:** [https://make.fun/r/ykaz8n5y](https://make.fun/r/ykaz8n5y)
+> **Starting here? Sign up through my link:** [https://make.fun/r/2wgaefze](https://make.fun/r/2wgaefze)
 >
-> My referral code is `ykaz8n5y`. It costs you nothing — and it helps this guide keep existing.
+> My referral code is `2wgaefze`. It costs you nothing — and it helps this guide keep existing.
 
 ## Contents
 
@@ -70,7 +70,7 @@ Three facts that shape everything else:
 
 ## Step 1 — Make your account
 
-1. Open [https://make.fun/r/ykaz8n5y](https://make.fun/r/ykaz8n5y) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/2wgaefze](https://make.fun/r/2wgaefze) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All free; signing in with a wallet sends no
    transaction and costs nothing.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, a short bio.
@@ -266,7 +266,7 @@ Each reward is reviewed for at least a day before you can claim it, and only rea
 Your link, the current reward values, and everything you have earned are on the **Referrals** tab of your profile.
 
 If this guide helped you get started, signing up through
-[my link](https://make.fun/r/ykaz8n5y) (code `ykaz8n5y`) is a good way to say thanks.
+[my link](https://make.fun/r/2wgaefze) (code `2wgaefze`) is a good way to say thanks.
 
 ## FAQ
 
@@ -327,4 +327,4 @@ the deadline is the one that counts. Resubmitting after a fix is normal — it i
 
 ---
 
-<sub>Written for the make.fun community. New here? Sign up with my referral link: https://make.fun/r/ykaz8n5y · code `ykaz8n5y`</sub>
+<sub>Written for the make.fun community. New here? Sign up with my referral link: https://make.fun/r/2wgaefze · code `2wgaefze`</sub>
